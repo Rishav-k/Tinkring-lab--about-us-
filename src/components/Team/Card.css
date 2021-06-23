@@ -1,0 +1,18 @@
+
+
+.card{
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+}
+.card img{
+    width:100%;
+}
+.card h1{
+    font-size: 20px;
+}
+.card h2{
+    font-size: 15px;
+    color:grey;
+    font-family: sans-serif;
+    font-weight: lighter;
+}

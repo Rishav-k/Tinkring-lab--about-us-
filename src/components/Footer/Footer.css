@@ -1,0 +1,38 @@
+
+img{
+    width:40%;
+    padding-right: 20px;
+    display: inline;
+}
+
+.footer {
+    padding: 20vh 7.2vw 2rem;
+    display: grid;
+    grid-template-columns: 18% 7% 7% 15% 33%;
+    column-gap: 7vw;
+    word-wrap: break-word;
+}
+
+.footer p{
+    color:rgba(128, 128, 128, 0.719);
+    font-size: 17px;
+}
+.footer a{
+    text-decoration: none;
+    font-size: 17px;
+}
+.footer h1{
+    font-size: 18px;
+    color:grey;
+    font-weight:300;
+    margin-bottom: 0px;
+
+}
+.footer h2{
+    margin-bottom:40px;
+}
+.copyright{
+    color:grey;
+    font-size: 14px;
+    text-align: center;
+}

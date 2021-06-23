@@ -1,0 +1,20 @@
+
+
+
+.vision-text{
+ margin:auto auto;
+ align-self: center;
+  
+    width:85%;
+}
+.content{
+    color: rgba(128, 126, 126, 0.815);
+    font-family: 'Roboto Condensed', sans-serif;
+}
+hr{
+    height:10px;
+    border:solid rgba(161, 160, 160, 0.438) 2px;
+    border-bottom: none;
+    border-right: none;
+    border-left:none;
+}
