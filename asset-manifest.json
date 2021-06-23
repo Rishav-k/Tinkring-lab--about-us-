@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Rishav-k/Tinkring-lab--about-us-/static/css/main.b42908af.chunk.css",
+    "main.js": "/Rishav-k/Tinkring-lab--about-us-/static/js/main.c8646f64.chunk.js",
+    "main.js.map": "/Rishav-k/Tinkring-lab--about-us-/static/js/main.c8646f64.chunk.js.map",
+    "runtime-main.js": "/Rishav-k/Tinkring-lab--about-us-/static/js/runtime-main.852b1460.js",
+    "runtime-main.js.map": "/Rishav-k/Tinkring-lab--about-us-/static/js/runtime-main.852b1460.js.map",
+    "static/js/2.21960299.chunk.js": "/Rishav-k/Tinkring-lab--about-us-/static/js/2.21960299.chunk.js",
+    "static/js/2.21960299.chunk.js.map": "/Rishav-k/Tinkring-lab--about-us-/static/js/2.21960299.chunk.js.map",
+    "index.html": "/Rishav-k/Tinkring-lab--about-us-/index.html",
+    "static/css/main.b42908af.chunk.css.map": "/Rishav-k/Tinkring-lab--about-us-/static/css/main.b42908af.chunk.css.map",
+    "static/js/2.21960299.chunk.js.LICENSE.txt": "/Rishav-k/Tinkring-lab--about-us-/static/js/2.21960299.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.852b1460.js",
+    "static/js/2.21960299.chunk.js",
+    "static/css/main.b42908af.chunk.css",
+    "static/js/main.c8646f64.chunk.js"
+  ]
+}
